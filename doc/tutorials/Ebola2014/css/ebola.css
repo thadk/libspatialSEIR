@@ -21,6 +21,10 @@ div.output pre{
     background-color:rgb(255,255,255);
 }
 
+img.plot{
+    width:640px;
+}
+
 
 
 .anchor{
