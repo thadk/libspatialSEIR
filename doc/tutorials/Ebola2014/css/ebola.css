@@ -22,7 +22,11 @@ div.output pre{
 }
 
 img {
-    max-width: 100%;
+    max-width: 80%;
+}
+
+svg.datamap{
+    background:rgb(28,107,160);
 }
 
 .anchor{
