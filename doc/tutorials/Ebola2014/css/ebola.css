@@ -34,3 +34,7 @@ svg.datamap{
     margin-top: -40px;
     display: inline-block; /* required for webkit browsers */
 }
+
+p {
+    text-indent: 5em;
+}
