@@ -26,6 +26,7 @@ img {
 }
 
 svg.datamap{
+	height:400px;
     background:rgb(28,107,160);
 }
 
@@ -33,4 +34,8 @@ svg.datamap{
     padding-top: 40px;
     margin-top: -40px;
     display: inline-block; /* required for webkit browsers */
+}
+
+p {
+    text-indent: 5em;
 }
